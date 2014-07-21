@@ -1,4 +1,6 @@
-dibbz_sdk_ios
-=============
+Dibbz SDK for iOS Integration Guide
+=================
 
-Dibbz SDK for iOS
+Please refer to the Dibbz website for further information.
+
+http://dibbz.co
